@@ -1,0 +1,5 @@
+.container_home{
+    padding: 0 62px;
+    display: flex;
+    flex-direction: column;
+}

@@ -5,9 +5,17 @@ section{
     justify-content: center;
 }
 
+svg{
+    width: 298px;
+}
+
 @media (min-width: 1080px){
     section{
         flex-direction: row;
         justify-content: space-between;
+    }
+
+    svg{
+        width: 350px;
     }
 }
