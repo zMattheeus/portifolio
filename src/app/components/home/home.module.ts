@@ -8,6 +8,8 @@ import {BtnPrimaryComponent} from 'src/app/shared/btn-primary/btn-primary.compon
 import { MainComponent } from 'src/app/shared/main/main.component';
 import { SobreComponent } from 'src/app/shared/sobre/sobre.component';
 import { ProjetoComponent } from 'src/app/shared/projeto/projeto.component';
+import { BoxProjectsComponent } from 'src/app/shared/box-projects/box-projects.component';
+import { TecnologiasComponent } from 'src/app/shared/tecnologias/tecnologias.component';
 
 
 
@@ -19,7 +21,9 @@ import { ProjetoComponent } from 'src/app/shared/projeto/projeto.component';
     BtnPrimaryComponent,
     MainComponent,
     SobreComponent,
-    ProjetoComponent
+    ProjetoComponent,
+    BoxProjectsComponent,
+    TecnologiasComponent
 
   ],
   imports: [
